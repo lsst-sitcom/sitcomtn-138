@@ -3,3 +3,5 @@ _build/
 .tox/
 venv/
 .venv/
+.vscode/
+.ipynb_checkpoints

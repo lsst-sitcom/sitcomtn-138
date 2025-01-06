@@ -5,7 +5,9 @@
 
 ## SITCOMTN-138
 
-(add an abstract here)
+The Rotator Emergency Stopping Distance was engineered to characterize and optimize the rotator's emergency stopping distance without faulting the System. The measured data provided the minimum stopping distance of such a subsystem in both positive and negative rotations and its maximum stopping time for a given emergency deceleration. Also, it was essential to ensure that the camera did not sense any accelerations or rotator motor currents that were too high when decelerating.
+	
+
 
 **Links:**
 
